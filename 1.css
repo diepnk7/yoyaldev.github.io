@@ -99,7 +99,7 @@ a.nuthire.btn.btn-primary {
 .tt {
     z-index: 2;
     position: relative;
-    padding-top: 56%;
+    padding-top: 24%;
 }
 
 a.navbar-brand {
@@ -168,7 +168,7 @@ ul.nav.navbar-nav.float-xs-right {
     background: white;
     margin: 0;
     padding: 0;
-    width: 105%;
+    width: 104%;
     /* position: relative; */
     /* left: -8px; */
     padding: 10px 34px;
