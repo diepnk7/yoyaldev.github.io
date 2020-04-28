@@ -1,5 +1,5 @@
 body{
-    background: url("https://i.imgur.com/36GsFBT.jpg") no-repeat center;
+    background: url("https://i.imgur.com/36GsFBT.jpg") padding-box;
     background-size: cover;
     user-select: none;
     -webkit-user-select: none;
