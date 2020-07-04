@@ -1,5 +1,9 @@
 *{margin: 0; padding: 0;}
 
+th ,td {
+    text-align: center;
+}
+
 .xuong:hover {
     bottom: 4%;
 }
@@ -191,3 +195,10 @@ a.navbar-brand {
     width: 100%;
 }
 
+table th, tr {
+  text-align: center;
+}
+
+a.th {
+    color: black;
+}
